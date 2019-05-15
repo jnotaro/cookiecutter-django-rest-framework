@@ -14,7 +14,7 @@ Based on José Padilla original code.
 
 ```bash
 $ pip install cookiecutter
-$ cookiecutter gh:jpadilla/cookiecutter-django-rest-framework
+$ cookiecutter gh:jnotaro/cookiecutter-django-rest-framework
 ```
 
 You'll be prompted for some questions, answer them, then it will create a cookiecutter-django-rest-framework with your new package.
@@ -48,7 +48,7 @@ Create a GitHub repo and push it there:
 $ git init
 $ git add .
 $ git commit -m "first commit"
-$ git remote add origin git@github.com:jpadilla/drf-things.git
+$ git remote add origin git@github.com:jnotaro/drf-things.git
 $ git push -u origin master
 ```
 
