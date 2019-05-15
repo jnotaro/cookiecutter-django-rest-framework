@@ -1,6 +1,7 @@
 # cookiecutter-django-rest-framework
 
-A cookiecutter template for creating reusable Django REST Framework packages with the best practices quickly.
+A cookiecutter Jeff Notaro template(changes/improvements) for creating reusable Django REST Framework packages with the best practices quickly.
+Based on José Padilla original code.
 
 ## Features
 
@@ -20,17 +21,17 @@ You'll be prompted for some questions, answer them, then it will create a cookie
 
 ### Example
 
-Warning: After this point, change 'José Padilla', 'jpadilla', etc to your own information.
+Warning: After this point, change 'Jeff Notaro', 'jnotaro', etc to your own information.
 
 ```bash
-full_name (default is "Your full name here")? José Padilla
-email (default is "you@example.com")? hello@jpadilla.com
-github_username (default is "yourname")? jpadilla
+full_name (default is "Your full name here")? Jeff Notaro
+email (default is "you@example.com")? info@jeffersonnotaro.ch
+github_username (default is "yourname")? jnotaro
 pypi_project_name (default is "dj-package")? drf-things
 repo_name (default is "dj-package")? drf-things
 app_name (default is "djpackage")? drfthings
 project_short_description (default is "Your project description goes here")?
-year (default is "2014")?
+year (default is "2019")?
 version (default is "0.1.0")?
 ```
 
